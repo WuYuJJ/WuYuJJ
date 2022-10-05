@@ -4,6 +4,10 @@
     A graduate student focusing on ✨ ROBOTICS ✨
 </p2>
 
+<p align="center">
+    🖤🖤💚💚🧡🧡👽🎃😈🦄🧡🧡💚💚🖤🖤
+</p3>
+
 <table align="center" width="100%">
     <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=WuYuJJ&show_icons=true&hide_title=truelayout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
