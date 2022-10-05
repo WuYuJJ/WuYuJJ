@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">HI THERE！I'M WUYUJJ 👋</h1>
 
-<!--
-**WuYuJJ/WuYuJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    A graduate student focusing on ✨ ROBOTICS ✨
+</p2>
 
-Here are some ideas to get you started:
+<table align="center" width="100%">
+    <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?     username=WuYuJJ&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+    </td>
+    <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=WuYuJJ&show_icons=true&hide_title=truelayout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+          </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WuYuJJ&theme=radical">
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
